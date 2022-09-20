@@ -1,3 +1,7 @@
+This is for a youtube series
+This is the channel link
+https://www.youtube.com/playlist?list=PL_asyV39HPhpSTGjutayOaAt0777D7bNH
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
